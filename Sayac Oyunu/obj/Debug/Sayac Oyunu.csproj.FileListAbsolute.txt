@@ -1,0 +1,9 @@
+c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\bin\Debug\Sayac Oyunu.exe.config
+c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\bin\Debug\Sayac Oyunu.exe
+c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\bin\Debug\Sayac Oyunu.pdb
+c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\obj\Debug\Sayac Oyunu.csprojResolveAssemblyReference.cache
+c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\obj\Debug\Sayac_Oyunu.Form1.resources
+c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\obj\Debug\Sayac_Oyunu.Properties.Resources.resources
+c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\obj\Debug\Sayac Oyunu.csproj.GenerateResource.Cache
+c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\obj\Debug\Sayac Oyunu.exe
+c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\obj\Debug\Sayac Oyunu.pdb
