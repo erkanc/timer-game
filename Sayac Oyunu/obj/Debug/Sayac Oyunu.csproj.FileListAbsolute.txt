@@ -7,3 +7,12 @@ c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\obj\
 c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\obj\Debug\Sayac Oyunu.csproj.GenerateResource.Cache
 c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\obj\Debug\Sayac Oyunu.exe
 c:\users\gkhn\documents\visual studio 2015\Projects\Sayac Oyunu\Sayac Oyunu\obj\Debug\Sayac Oyunu.pdb
+C:\Users\ERKAN\Documents\GitHub\timer-game\Sayac Oyunu\bin\Debug\Sayac Oyunu.exe.config
+C:\Users\ERKAN\Documents\GitHub\timer-game\Sayac Oyunu\obj\Debug\Sayac Oyunu.exe
+C:\Users\ERKAN\Documents\GitHub\timer-game\Sayac Oyunu\obj\Debug\Sayac Oyunu.pdb
+C:\Users\ERKAN\Documents\GitHub\timer-game\Sayac Oyunu\bin\Debug\Sayac Oyunu.exe
+C:\Users\ERKAN\Documents\GitHub\timer-game\Sayac Oyunu\bin\Debug\Sayac Oyunu.pdb
+C:\Users\ERKAN\Documents\GitHub\timer-game\Sayac Oyunu\obj\Debug\Sayac Oyunu.csprojResolveAssemblyReference.cache
+C:\Users\ERKAN\Documents\GitHub\timer-game\Sayac Oyunu\obj\Debug\Sayac_Oyunu.Form1.resources
+C:\Users\ERKAN\Documents\GitHub\timer-game\Sayac Oyunu\obj\Debug\Sayac_Oyunu.Properties.Resources.resources
+C:\Users\ERKAN\Documents\GitHub\timer-game\Sayac Oyunu\obj\Debug\Sayac Oyunu.csproj.GenerateResource.Cache

@@ -63,7 +63,7 @@ namespace Sayac_Oyunu
         private void Form1_Load(object sender, EventArgs e)
         {
             panel1.Height = 0;
-            timer1.Interval = 100;
+            timer1.Interval = 10;
             timer1.Start();
             timer2.Interval = 10;
         }
